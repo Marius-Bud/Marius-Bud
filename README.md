@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marius-Bud Im studying to become a pro developer. Im allways learning new stuff and at this time as well im studying at "codeAcademy"
+- 👋 Hi, I’m @Marius-Bud Im studying to become a pro developer. Im allways learning new stuff
 - 👀 I’m interested in JS and Python
 - 🌱 I’m currently learning node.js, mongoDB, python
 - 💞️ I’m looking to collaborate on Anything tbh
