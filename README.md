@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marius-Bud Im studying to become a pro developer. Im allways learning new stuff and at this time as well im studying at "codeAcademy"
 - 👀 I’m interested in JS and Python
-- 🌱 I’m currently learning JS react
+- 🌱 I’m currently learning node.js, mongoDB, python
 - 💞️ I’m looking to collaborate on Anything tbh
 - 📫 How to reach me? feel free to message me here on github :)
 
