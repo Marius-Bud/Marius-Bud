@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marius-Bud Im studying to become a pro developer. Im allways learning new stuff
-- 👀 I’m interested in JS and Python
-- 🌱 I’m currently learning node.js, mongoDB, python
+- 👀 I’m interested in mostly in building single page applications
+- 🌱 I’m currently learning React, PL/SQL, Spring Boot
 - 💞️ I’m looking to collaborate on Anything tbh
 - 📫 How to reach me? feel free to message me here on github :)
 
